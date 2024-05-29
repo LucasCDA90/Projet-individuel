@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T07:04:36.608Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.4.9" etag="J8ywQWTSYyV81votsy1T" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T07:06:05.639Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="PsylWBiAP6tBW7v5k-Tv" version="24.4.9" type="github">
   <diagram name="Page-1" id="ilYK1RVeM7uWJUXFn6Yt">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eazCVIHi76XQtwkT_GXv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eazCVIHi76XQtwkT_GXv-1" target="eazCVIHi76XQtwkT_GXv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eazCVIHi76XQtwkT_GXv-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eazCVIHi76XQtwkT_GXv-2" value="API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="170" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="eazCVIHi76XQtwkT_GXv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eazCVIHi76XQtwkT_GXv-5" target="eazCVIHi76XQtwkT_GXv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eazCVIHi76XQtwkT_GXv-5" value="Application " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="140" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
